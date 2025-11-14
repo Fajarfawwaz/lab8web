@@ -4,9 +4,9 @@
 
 ---
 
-**Nama:** ZAENAL MAULANA RIZKI
+**Nama:** FAJAR FAWWAZ ATALLLAH
 
-**NIM:** 312410332
+**NIM:** 312410357
 
 **Kelas:** TI.2A.A.4
 
